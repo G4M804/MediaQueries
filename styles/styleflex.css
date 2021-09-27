@@ -1,0 +1,85 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  background-image:url(../img/fondo.jpg); 
+  padding-left:50px;
+  padding-right: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+	width:100%;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+}
+
+h2{
+	text-align: center
+}
+
+h3{
+	color: #ffffff;
+}
+
+h3.materias{
+	color:black;
+	text-align: center;
+}
+
+h4{
+	color: #ffffff;
+	text-align: center;
+}
+
+table, th, td {
+	text-align: center;
+	padding: 1px;
+  border: 1px solid black;
+}
+
+section.sc1{
+
+	border: solid;
+	border-color: black;
+
+}
+
+div.wrapper{
+	display: flex;
+}
+
+div.uno{
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 0.01em 16px;
+    flex: 1 ;
+}
+
+div.dos{
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 0.01em 16px;
+	flex: 1 ;
+}
+
+div.tres{
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 0.01em 16px;
+    flex: 1 ;
+}
+
+footer{
+	background-color: #9d5232;
+	font-style: oblique;
+	text-align:  center;
+	font-weight: bold;
+}
+
+th{
+	color:#ffffff;
+
+}
